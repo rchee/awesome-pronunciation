@@ -563,7 +563,12 @@
     "origin": ["http://www.howtopronounce.cc/file/ceadc221e2b54b43a413f2c55a7ca04f.mp3"],
     "symbol": ["[nʌm'paɪ]"],
     "reference": ""
-  }, {
+  },{
+    "word": "nuxt",
+    "origin": ["https://dict.youdao.com/dictvoice?audio=nuxt&type=1"],
+    "symbol": ["-"],
+    "reference": "https://www.youtube.com/watch?v=dCxSsr5xuL8"
+  },{
     "word": "NVIDIA",
     "origin": ["https://dict.youdao.com/dictvoice?audio=NVIDIA&type=1"],
     "symbol": ["[en'vɪdɪr]"],
